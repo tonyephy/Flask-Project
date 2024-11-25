@@ -1,11 +1,9 @@
 # Flask-Project
-Here’s the updated README with the task completion feature included:
 
----
 
-# Task Manager App
+# Task Flow App
 
-This is a basic Flask-based task management application, enabling users to add, update, delete, mark tasks as completed, and view tasks. It uses MongoDB for data storage, allowing users to organize their tasks and manage their productivity effectively.
+This is a basic Flask-based task flow application, enabling users to add, update, delete, mark tasks as completed, and view tasks. It uses MongoDB for data storage, allowing users to organize their tasks and manage their productivity effectively.
 
 ## Table of Contents
 - [Features](#features)
